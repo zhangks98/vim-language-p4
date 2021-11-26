@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.P4 set filetype=p4
+autocmd BufRead,BufNewFile *.P4,*.p4 set filetype=p4
